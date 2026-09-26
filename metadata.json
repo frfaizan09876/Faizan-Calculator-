@@ -1,0 +1,6 @@
+{
+  "name": "CA Calculator",
+  "description": "An all-in-one Accounting, Finance, Indian Tax, and Costing calculator tool with a Black and Gold premium theme for commerce students and aspiring Chartered Accountants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
